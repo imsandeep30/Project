@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Project/static/css/main.b4a259ab.css",
+    "main.js": "/Project/static/js/main.e9278158.js",
+    "static/media/van.jpg": "/Project/static/media/van.f57cf9bc4166801410ba.jpg",
+    "static/media/forcon.jpg": "/Project/static/media/forcon.f8ebe95baf7ceee122ff.jpg",
+    "static/media/beach.jpg": "/Project/static/media/beach.e970826ed64a790b9a5a.jpg",
+    "static/media/HtelTaj.jpg": "/Project/static/media/HtelTaj.49925b2c1bbed9f2b454.jpg",
+    "static/media/hotelNi8.jpg": "/Project/static/media/hotelNi8.26cf2d4a4361580c6fd8.jpg",
+    "index.html": "/Project/index.html",
+    "main.b4a259ab.css.map": "/Project/static/css/main.b4a259ab.css.map",
+    "main.e9278158.js.map": "/Project/static/js/main.e9278158.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4a259ab.css",
+    "static/js/main.e9278158.js"
+  ]
+}
